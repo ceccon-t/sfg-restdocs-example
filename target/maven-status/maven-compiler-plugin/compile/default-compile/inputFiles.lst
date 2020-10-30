@@ -1,0 +1,11 @@
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerStyleEnum.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerDto.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/repositories/BeerRepository.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/BeerMapper.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/SfgRestdocsExampleApplication.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/bootstrap/BeerLoader.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/BeerController.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/controller/MvcExceptionHandler.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/model/BeerPagedList.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/domain/Beer.java
+/home/tiago/TI/Java/UDEMY-TestingSpringBoot/sfg-restdocs-example/src/main/java/guru/springframework/sfgrestdocsexample/web/mappers/DateMapper.java
