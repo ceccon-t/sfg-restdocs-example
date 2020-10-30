@@ -1,5 +1,5 @@
 [source,bash]
 ----
-$ curl 'https://dev.springframework.guru:80/api/v1/beer/e97050c5-6907-4520-bc75-77f5566b2ae4?isCold=yes' -i -X GET \
+$ curl 'https://dev.springframework.guru:80/api/v1/beer/22074df6-07d2-4ae1-b2d8-7d61149b3049?isCold=yes' -i -X GET \
     -H 'Accept: application/json'
 ----
